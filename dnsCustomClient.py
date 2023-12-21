@@ -1,4 +1,4 @@
-  import socket
+import socket
 from cryptography.fernet import Fernet
 import dns.message
 import dns.name
